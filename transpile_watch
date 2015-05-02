@@ -1,0 +1,1 @@
+babel /Users/paulus/dev/python/home-assistant/homeassistant/components/frontend/www_static/polymer/home-assistant-js/src --out-dir transpiled --watch

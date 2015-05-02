@@ -1,0 +1,16 @@
+{
+  "name": "home_assistant_react_native",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node_modules/react-native/packager/packager.sh"
+  },
+  "dependencies": {
+    "events": "^1.0.2",
+    "flux": "^2.0.3",
+    "immutable": "^3.7.2",
+    "lodash": "^3.8.0",
+    "moment": "^2.10.2",
+    "react-native": "^0.4.1"
+  }
+}
